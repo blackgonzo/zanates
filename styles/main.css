@@ -1,0 +1,37 @@
+@import "_variables.css";
+@import "_mixins.css";
+
+/*componentes*/
+
+@import "components/header.css";
+
+@import "components/button.css";
+@import "components/figure.css";
+@import "components/aside.css";
+@import "components/article.css";
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #a3a3a3;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #cfcfcf;
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

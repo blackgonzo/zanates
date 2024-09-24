@@ -1,0 +1,22 @@
+.header_body{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(40, 47, 82);
+   width: 100%;
+   height: 20%;
+}
+.logo{
+    margin-right: 35%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    height: 100px;
+}
+h1{
+    font-size: 60px;
+    color: #ffffff;
+}
+.header_article{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+}

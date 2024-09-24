@@ -1,0 +1,12 @@
+.zanate{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: solid 10px  rgb(40, 47, 82);
+}
+figcaption{
+    font-size: 12px;
+    background-color: rgba(0, 0, 255, 0.16);
+    width: 320px;
+    border-radius: 4px;
+}
