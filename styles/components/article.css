@@ -9,6 +9,9 @@ article {
     
 }
 .header_article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 30px;
   background-color: rgb(40, 47, 82);
   color: #ffffff;
